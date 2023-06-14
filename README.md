@@ -33,7 +33,7 @@
 - :zap: Putting Hardwork In Learning.
 - 🗳 Like to Create fun projects in free time
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-singh-13774b225/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vedant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-singh-13774b225/)
 
 ### 🧰 Languages and Tools :
 
@@ -56,12 +56,12 @@
 </div>
 
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ved-et9&theme=tokyonight&card_width=600)](https://git.io/streak-stats)
 
 
-
-
-
-
+### 📖: Languages Used :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ved-et9)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
