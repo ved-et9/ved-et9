@@ -26,7 +26,7 @@
 
 🎓I am a UnderGrad Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m learning and working on DSA,Python and its various application by imlementing it in Data science,Machine Learning also strengthning my Blockchain and web3 concepts.
+- :telescope: I’m learning and working on DSA,Python and its various application by implementing it in Data science,Machine Learning also strengthning my Blockchain and web3 concepts.
 
 - :seedling: Exploring New technologies,Languages,Frameworks,etc.
 
