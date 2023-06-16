@@ -61,7 +61,7 @@
 
 
 ### 📖: Languages Used :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ved-et9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ved-et9)](https://github.com/ved-et9/github-readme-stats)
 
 
 
